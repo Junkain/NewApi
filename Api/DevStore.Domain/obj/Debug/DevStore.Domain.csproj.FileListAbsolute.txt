@@ -1,0 +1,2 @@
+C:\Users\emori\Documents\Visual Studio 2017\Projects\Api\DevStore.Domain\obj\Debug\DevStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\emori\Documents\Visual Studio 2017\Projects\Api\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
